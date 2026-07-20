@@ -1,5 +1,6 @@
 {
   "version": "2.0.0",
   "download_url": "https://ktecht.pythonanywhere.com/downloads/account_mgr_setup.exe",
+  "sha256": "ab6ce58565b7f235d8cfc878d80169e2f18401243f57c675e3a1f98a89fffe2c",
   "changelog": "Bug fixes and performance improvements"
 }

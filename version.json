@@ -1,5 +1,5 @@
 {
-  "version": "3.0.0",
+  "version": "1.0.0",
   "download_url": "https://drive.google.com/file/d/143NRCBmwcANFYXu760CLcxEkS4zabhfM/view?usp=sharing",
   "sha256": "ab6ce58565b7f235d8cfc878d80169e2f18401243f57c675e3a1f98a89fffe2c",
   "changelog": "Added email field for customers"

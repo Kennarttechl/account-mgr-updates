@@ -1,7 +1,7 @@
 {
-  "version": "2.0.0",
+  "version": "1.0.0",
   "download_url": "https://github.com/Kennarttechl/exe_setup/releases/download/v2.0.0/DashPOS.exe",
-  "sha256": "0c20307d05a29355a14ff1f1abf3fdc97e754941e3f082161fb038ec42bd3174",
+  "sha256": "new",
   "changelog": "Added email field for customers"
 }
 
